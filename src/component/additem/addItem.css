@@ -1,0 +1,14 @@
+.form {
+  margin: 0 auto;
+  width: 80%;
+  /* padding:0 10px; */
+}
+.form > input {
+  width: 32.7%;
+  padding: 10px 5px;
+}
+.Submit {
+  background-color: #ff4b5c;
+  color: #e0ece4;
+  border: #ff4b5c 2px solid;
+}
